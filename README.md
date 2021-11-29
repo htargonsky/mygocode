@@ -1,0 +1,2 @@
+# mygocode
+Go class code
